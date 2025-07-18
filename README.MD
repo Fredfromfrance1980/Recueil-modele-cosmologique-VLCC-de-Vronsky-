@@ -1,6 +1,6 @@
 # VLCC – Modèle d’espace-temps différentiel photonique
 
-Ce dépôt contient l'intégralité du recueil spéculatif VLCC proposé par Frédérick Vronsky.
+Ce dépôt contient l'intégralité du recueil spéculatif VLCC proposé par Frédérick Vronsky, dans sa version originale.
 
 📘 [Lire sur Zenodo (DOI)](https://doi.org/10.5281/zenodo.15868796)
 
